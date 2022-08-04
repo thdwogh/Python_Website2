@@ -1,0 +1,23 @@
+#tit {
+    text-align: center;
+    border-bottom: 10px solid green;
+    margin: auto;
+    padding: 10px;
+}
+#contents{
+    border-right: 10px solid green;
+    width:300px;
+    margin:0;
+}
+#list{
+    margin:7px;
+    margin-right:0px;
+    font-weight: bold;
+}
+#intro1{
+    display: grid;
+    grid-template-columns: 350px 1fr;
+}
+.intro2{
+    margin:20px
+}
